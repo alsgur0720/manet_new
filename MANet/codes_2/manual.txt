@@ -1,0 +1,6 @@
+python train.py --opt options/train/train_stage1.yml
+
+
+
+##테스트파일이다 이거
+python test.py --opt options/test/test_stage1.yml

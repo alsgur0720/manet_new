@@ -1,0 +1,7 @@
+Step1: to train MANet, run this command:
+
+python train.py --opt options/train/train_stage1.yml
+
+python train.py --opt options/train/train_stage2.yml
+
+python train.py --opt options/train/train_stage3.yml
